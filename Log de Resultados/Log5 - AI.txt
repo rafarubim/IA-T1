@@ -1,0 +1,247 @@
+INICIO DO ARQUIVO
+Trabalho de Inteligencia Artificial
+Grupo: Alexandre(1413183) e Rafael(1511068)
+Tempo da Compilacao: Mon Oct 03 21:33:47 2016
+
+============================================
+
+========= Geracao: 0 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.5	
+Clareira 02	Fome: 140	Doces: 1.2	1.3	1.5	
+Clareira 03	Fome: 130	Doces: 1.4	1.5	
+Clareira 04	Fome: 120	Doces: 1.2	1.3	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.1	1.2	1.3	
+Clareira 07	Fome: 95	Doces: 1.1	1.4	
+Clareira 08	Fome: 90	Doces: 1.2	1.3	
+Clareira 09	Fome: 85	Doces: 1.1	1.4	
+Clareira 10	Fome: 80	Doces: 1.2	1.5	
+Soma: 352.3968
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.3	1.5	
+Clareira 04	Fome: 120	Doces: 1.2	1.3	1.4	
+Clareira 05	Fome: 110	Doces: 1.1	1.5	
+Clareira 06	Fome: 100	Doces: 1.2	1.4	
+Clareira 07	Fome: 95	Doces: 1.3	1.4	
+Clareira 08	Fome: 90	Doces: 1.2	1.5	
+Clareira 09	Fome: 85	Doces: 1.3	1.4	
+Clareira 10	Fome: 80	Doces: 1.2	1.5	
+Soma: 350.8008
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.2	1.3	1.4	
+Clareira 04	Fome: 120	Doces: 1.4	1.5	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.1	1.2	1.3	
+Clareira 07	Fome: 95	Doces: 1.1	1.4	
+Clareira 08	Fome: 90	Doces: 1.2	1.3	
+Clareira 09	Fome: 85	Doces: 1.4	1.5	
+Clareira 10	Fome: 80	Doces: 1.2	1.5	
+Soma: 350.7118
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.4	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.3	1.4	
+Clareira 03	Fome: 130	Doces: 1.2	1.3	1.5	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.1	1.4	
+Clareira 08	Fome: 90	Doces: 1.2	1.3	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.2	1.3	
+Soma: 350.4013
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.5	
+Clareira 02	Fome: 140	Doces: 1.2	1.3	1.5	
+Clareira 03	Fome: 130	Doces: 1.2	1.3	1.4	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.1	1.5	
+Clareira 08	Fome: 90	Doces: 1.2	1.3	
+Clareira 09	Fome: 85	Doces: 1.2	1.4	
+Clareira 10	Fome: 80	Doces: 1.1	1.4	
+Soma: 350.1034
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.2	1.3	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.3	1.5	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.2	1.4	
+Clareira 07	Fome: 95	Doces: 1.2	1.5	
+Clareira 08	Fome: 90	Doces: 1.2	1.5	
+Clareira 09	Fome: 85	Doces: 1.3	1.5	
+Clareira 10	Fome: 80	Doces: 1.1	1.4	
+Soma: 349.5197
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.2	1.4	
+Clareira 02	Fome: 140	Doces: 1.2	1.3	1.5	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.4	
+Clareira 04	Fome: 120	Doces: 1.1	1.3	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.4	
+Clareira 08	Fome: 90	Doces: 1.2	1.5	
+Clareira 09	Fome: 85	Doces: 1.1	1.5	
+Clareira 10	Fome: 80	Doces: 1.2	1.3	
+Soma: 349.1108
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.3	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.3	1.4	
+Clareira 06	Fome: 100	Doces: 1.4	1.5	
+Clareira 07	Fome: 95	Doces: 1.2	1.5	
+Clareira 08	Fome: 90	Doces: 1.2	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.4	
+Clareira 10	Fome: 80	Doces: 1.4	1.5	
+Soma: 348.7686
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.2	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.5	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.3	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.4	
+Clareira 08	Fome: 90	Doces: 1.4	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.4	
+Clareira 10	Fome: 80	Doces: 1.1	1.5	
+Soma: 348.5244
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.4	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.5	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.4	
+Clareira 08	Fome: 90	Doces: 1.2	1.5	
+Clareira 09	Fome: 85	Doces: 1.3	1.4	
+Clareira 10	Fome: 80	Doces: 1.2	1.4	
+Soma: 348.2011
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.2	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.3	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.2	1.5	
+Clareira 07	Fome: 95	Doces: 1.4	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.3	1.4	
+Soma: 348.1002
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.2	1.5	
+Clareira 07	Fome: 95	Doces: 1.4	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.3	1.4	
+Soma: 347.8868
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.4	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.4	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.2	1.5	
+Soma: 347.8644
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.4	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.4	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.2	1.4	
+Soma: 347.7036
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.3	1.5	
+Clareira 07	Fome: 95	Doces: 1.4	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.4	
+Clareira 10	Fome: 80	Doces: 1.2	1.5	
+Soma: 347.6247
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.2	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.4	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.4	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.3	1.5	
+Clareira 10	Fome: 80	Doces: 1.2	1.4	
+Soma: 347.6241
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.2	1.5	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.4	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.4	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.4	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.3	1.4	
+Soma: 347.5428
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.3	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.4	1.5	
+Clareira 07	Fome: 95	Doces: 1.4	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.4	
+Clareira 10	Fome: 80	Doces: 1.2	1.5	
+Soma: 347.4442
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.2	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.4	1.5	
+Clareira 07	Fome: 95	Doces: 1.3	1.5	
+Clareira 08	Fome: 90	Doces: 1.4	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.3	1.4	
+Soma: 347.3618
+========= Geracao: -1 =========
+Clareira 01	Fome: 150	Doces: 1.1	1.2	1.4	
+Clareira 02	Fome: 140	Doces: 1.1	1.2	1.3	
+Clareira 03	Fome: 130	Doces: 1.1	1.2	1.3	
+Clareira 04	Fome: 120	Doces: 1.1	1.2	1.3	
+Clareira 05	Fome: 110	Doces: 1.4	1.5	
+Clareira 06	Fome: 100	Doces: 1.4	1.5	
+Clareira 07	Fome: 95	Doces: 1.4	1.5	
+Clareira 08	Fome: 90	Doces: 1.3	1.5	
+Clareira 09	Fome: 85	Doces: 1.2	1.5	
+Clareira 10	Fome: 80	Doces: 1.3	1.4	
+Soma: 347.3003
